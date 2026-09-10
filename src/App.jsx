@@ -18,7 +18,7 @@ function App() {
   const [subscribed, setSubscribed] = useState(false);
 
   // Constants
-  const WHATSAPP_NUMBER = "6285179674249"; // Ganti dengan nomor asli
+  const WHATSAPP_NUMBER = "62895805102466";
 
   // Cart Functions
   const cartCount = cart.reduce((total, item) => total + item.quantity, 0);
