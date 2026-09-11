@@ -153,7 +153,7 @@ function App() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div className="max-w-2xl">
                 <span className="inline-block py-1 px-3 rounded-full bg-primary/5 text-primary text-sm font-bold mb-6 reveal">
-                  Najhani Hijab — Sejak 2019
+                  Najhani Hijab — Sejak 2024
                 </span>
                 <h1 className="text-5xl md:text-7xl font-bold leading-[1.1] mb-6 reveal reveal-delay-1 text-primary">
                   Anggun dalam <br />
